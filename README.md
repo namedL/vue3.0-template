@@ -1,4 +1,4 @@
-# wz_typhoon_site
+# vue 3.0 template
 
 ## Project setup
 ```
